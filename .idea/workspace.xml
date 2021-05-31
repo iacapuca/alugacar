@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="946d41a5-0a96-40f0-bc4b-fe5c42a1250a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/59c62830-06eb-4ded-b1fe-733a40c58455.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/59c62830-06eb-4ded-b1fe-733a40c58455.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/db/alugacar.db" beforeDir="false" afterPath="$PROJECT_DIR$/app/db/alugacar.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/alugacar/dao/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/dao/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/alugacar/database/Database.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/alugacar/database/DatabaseFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/alugacar/models/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/models/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/alugacar/models/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/models/PessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/db/alugacar.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/alugacar/database/DatabaseSQLite.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/database/DatabaseSQLite.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,8 +155,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.alugacar [dependencies]" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Gradle.alugacar [dependencies]" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +184,7 @@
       <workItem from="1622437705807" duration="510000" />
       <workItem from="1622438226140" duration="2335000" />
       <workItem from="1622464530602" duration="116000" />
+      <workItem from="1622472834315" duration="454000" />
     </task>
     <servers />
   </component>

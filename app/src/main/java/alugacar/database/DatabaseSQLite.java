@@ -11,7 +11,7 @@ public class DatabaseSQLite{
     private DatabaseSQLite() throws SQLException {
         try {
             Class.forName("org.sqlite.JDBC");
-            this.connection = DriverManager.getConnection("jdbc:sqlite:app/db/alugacar.db");
+            this.connection = DriverManager.getConnection("jdbc:sqlite:alugacar.db");
         } catch (SQLException | ClassNotFoundException ex) {
             System.out.println("Database Connection Creation Failed : " + ex.getMessage());
         }
