@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="IU-211.7142.45">
-    <data-source name="SQLite - alugacar.db" uuid="af6ef60c-4a7e-4845-b994-edd61eece97a">
+    <data-source name="alugacar.db" uuid="59c62830-06eb-4ded-b1fe-733a40c58455">
       <database-info product="SQLite" version="3.34.0" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.34.0" dbms="SQLITE" exact-version="3.34.0" exact-driver-version="3.34">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>

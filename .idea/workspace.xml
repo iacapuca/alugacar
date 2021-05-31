@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="946d41a5-0a96-40f0-bc4b-fe5c42a1250a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/controllers/CadastroPessoaJuridicaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/controllers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/dao/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/database/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/database/DatabaseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/database/DatabaseSQLite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/models/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/models/PessoaFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/models/PessoaJuridica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/resources/view/CadastroPessoaJuridica.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/resources/view/Main.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/alugacar/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/alugacar.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/af6ef60c-4a7e-4845-b994-edd61eece97a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/alugacar/database/DatabaseSQLite.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/alugacar/database/DatabaseSQLite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/alugacar/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/alugacar/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/alugacar.db" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +27,33 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="alugacar" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,7 +72,9 @@
     <option name="directoryName" value="qie8muve" />
   </component>
   <component name="ProjectId" id="1tE7jUIxAyQkOrIKXhYQVstfAfd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,21 +87,23 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.35761106" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JPA/Hibernate QL" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/src/main/resources" />
       <recent name="$PROJECT_DIR$/app/src/main/java/alugacar" />
     </key>
@@ -119,19 +129,6 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" />
         </ENTRIES>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -187,11 +184,26 @@
       <workItem from="1622430420657" duration="504000" />
       <workItem from="1622431316138" duration="305000" />
       <workItem from="1622431631061" duration="4063000" />
-      <workItem from="1622435862953" duration="98000" />
+      <workItem from="1622435862953" duration="804000" />
+      <workItem from="1622436725325" duration="904000" />
+      <workItem from="1622437705807" duration="510000" />
+      <workItem from="1622438226140" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
