@@ -13,6 +13,10 @@ public abstract class Cliente {
         this.endereco = endereco;
     }
 
+    public Cliente() {
+
+    }
+
     public boolean isEstaAtivo() {
         return estaAtivo;
     }
